@@ -1,2 +1,5 @@
-# wordpress-plugin-development
-study with me for plugin development
+
+<p dir="rtl" align="right">
+  <h2> آموزش افزونه نویسی وردپرس</h2>
+  در ابتدا نیاز داریم تا زمپ نصب کنیم.
+  </p>
